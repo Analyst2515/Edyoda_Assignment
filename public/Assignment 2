@@ -1,0 +1,5 @@
+str = "Edyoda"
+#reverse string using slicing
+reversed = str[::-1]
+#print reversed string
+print(reversed)
